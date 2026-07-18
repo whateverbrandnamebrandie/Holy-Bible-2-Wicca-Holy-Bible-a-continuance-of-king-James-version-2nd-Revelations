@@ -1,0 +1,333 @@
+:root {
+    --primary-color: #1a1a2e;
+    --secondary-color: #16213e;
+    --accent-color: #d4af37;
+    --text-light: #e0e0e0;
+    --text-dark: #1a1a2e;
+    --border-color: #404040;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    background-color: var(--primary-color);
+    color: var(--text-light);
+    line-height: 1.8;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Header */
+header {
+    background: linear-gradient(135deg, var(--secondary-color) 0%, var(--primary-color) 100%);
+    border-bottom: 2px solid var(--accent-color);
+    padding: 60px 20px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 3.5em;
+    color: var(--accent-color);
+    margin-bottom: 10px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+
+.subtitle {
+    font-size: 1.8em;
+    color: var(--text-light);
+    margin-bottom: 10px;
+    font-style: italic;
+}
+
+.author {
+    font-size: 1.2em;
+    color: var(--accent-color);
+    margin-bottom: 5px;
+}
+
+.tagline {
+    font-size: 1em;
+    color: #888;
+    font-style: italic;
+}
+
+/* Navigation */
+.navbar {
+    background-color: var(--secondary-color);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    border-bottom: 1px solid var(--border-color);
+    padding: 0;
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding: 20px 0;
+}
+
+.navbar a {
+    color: var(--text-light);
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+    border-bottom: 2px solid transparent;
+    padding-bottom: 5px;
+}
+
+.navbar a:hover,
+.navbar a.active {
+    color: var(--accent-color);
+    border-bottom-color: var(--accent-color);
+}
+
+/* Main Content */
+main {
+    padding: 60px 20px;
+    min-height: calc(100vh - 400px);
+}
+
+/* Intro Section */
+.intro {
+    background-color: var(--secondary-color);
+    padding: 40px;
+    border-radius: 10px;
+    margin-bottom: 60px;
+    border-left: 4px solid var(--accent-color);
+}
+
+.intro h2 {
+    color: var(--accent-color);
+    margin-bottom: 20px;
+    font-size: 2em;
+}
+
+.intro p {
+    margin-bottom: 15px;
+    line-height: 1.8;
+}
+
+.copyright-notice {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: rgba(212, 175, 55, 0.1);
+    border-left: 3px solid var(--accent-color);
+    border-radius: 5px;
+}
+
+.copyright-notice p {
+    font-size: 0.95em;
+    margin-bottom: 10px;
+}
+
+/* Episodes Section */
+#episodes h2 {
+    color: var(--accent-color);
+    font-size: 2.5em;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.episodes-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+    margin-bottom: 40px;
+}
+
+.episode-card {
+    background-color: var(--secondary-color);
+    border: 1px solid var(--border-color);
+    border-radius: 10px;
+    padding: 30px;
+    transition: all 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    border-left: 4px solid var(--accent-color);
+}
+
+.episode-card:hover {
+    border-color: var(--accent-color);
+    box-shadow: 0 10px 30px rgba(212, 175, 55, 0.2);
+    transform: translateY(-5px);
+}
+
+.episode-card h3 {
+    color: var(--accent-color);
+    font-size: 1.8em;
+    margin-bottom: 8px;
+}
+
+.episode-meta {
+    color: #999;
+    font-style: italic;
+    font-size: 0.95em;
+    margin-bottom: 15px;
+}
+
+.summary {
+    flex-grow: 1;
+    margin-bottom: 20px;
+    line-height: 1.6;
+    color: #ccc;
+}
+
+.read-btn {
+    display: inline-block;
+    background-color: var(--accent-color);
+    color: var(--text-dark);
+    padding: 12px 30px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    text-align: center;
+}
+
+.read-btn:hover {
+    background-color: #e5c158;
+    transform: scale(1.05);
+}
+
+/* Footer */
+footer {
+    background-color: var(--secondary-color);
+    border-top: 2px solid var(--accent-color);
+    padding: 40px 20px;
+    text-align: center;
+    margin-top: 60px;
+}
+
+footer p {
+    margin-bottom: 10px;
+}
+
+footer a {
+    color: var(--accent-color);
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+/* Episode Page Styles */
+.episode-container {
+    background-color: var(--secondary-color);
+    padding: 40px;
+    border-radius: 10px;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.episode-header {
+    margin-bottom: 30px;
+    border-bottom: 2px solid var(--accent-color);
+    padding-bottom: 20px;
+}
+
+.episode-header h1 {
+    color: var(--accent-color);
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+.episode-title {
+    color: #999;
+    font-style: italic;
+    font-size: 1.2em;
+}
+
+.episode-content {
+    line-height: 1.9;
+    color: var(--text-light);
+}
+
+.episode-content h2 {
+    color: var(--accent-color);
+    margin-top: 30px;
+    margin-bottom: 15px;
+    font-size: 1.8em;
+}
+
+.episode-content h3 {
+    color: #d4af37;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 1.3em;
+}
+
+.episode-content p {
+    margin-bottom: 15px;
+    text-align: justify;
+}
+
+.episode-footer {
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid var(--border-color);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-links a {
+    color: var(--accent-color);
+    text-decoration: none;
+    margin: 0 15px;
+    transition: color 0.3s ease;
+}
+
+.nav-links a:hover {
+    color: #e5c158;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2.5em;
+    }
+
+    .subtitle {
+        font-size: 1.3em;
+    }
+
+    .navbar ul {
+        gap: 20px;
+        flex-wrap: wrap;
+    }
+
+    .episodes-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .episode-container {
+        padding: 20px;
+    }
+
+    .episode-header h1 {
+        font-size: 2em;
+    }
+
+    .episode-footer {
+        flex-direction: column;
+        gap: 15px;
+        text-align: center;
+    }
+}
