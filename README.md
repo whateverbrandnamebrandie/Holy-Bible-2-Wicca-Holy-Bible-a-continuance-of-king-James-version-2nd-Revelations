@@ -1,11 +1,4 @@
-73#
 
-Copilot
-Copilot Chat
-Wicca Holy Bible integrated learning platform
-prologue.html
-index.html
-Can you just put this in text
 Holy Bible 2: Wicca Holy Bible - Integrated Learning & Narrative Platform
 Index Page (index.html)
 Welcome to the Integrated Platform
