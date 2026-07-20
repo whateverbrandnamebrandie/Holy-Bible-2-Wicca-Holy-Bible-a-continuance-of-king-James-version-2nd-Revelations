@@ -1,3 +1,26 @@
+Copyright (c) 2026 whateverbrandnamebrandie
+Copyright (c) 2026 whateverbrandnamebrandie
+
+All Rights Reserved.
+
+This work is protected by copyright. Unauthorized copying, distribution, modification, or any other use of this material is strictly prohibited without the express written permission of the copyright holder.
+
+For permission to use this work, please contact the copyright holder.
+
+All Rights Reserved.
+
+This work is protected by copyright. Unauthorized copying, distribution, modification, or any other use of this material is strictly prohibited without the express written permission of the copyright holder.
+
+For permission to use this work, please contact the copyright holder.
+Copyright (c) 2026 whateverbrandnamebrandie
+
+All Rights Reserved.
+
+This work is protected by copyright. Unauthorized copying, distribution, modification, or any other use of this material is strictly prohibited without the express written permission of the copyright holder.
+
+For permission to use this work, please contact the copyright holder.
+
+
 Copyright (1972-2026) YEAR COPYRIGHT HOLDER legal name brandie raquel wooten. present and or future and or past,
 
 "ever" brandie raquel tibbitts and or freitas and or jackson and or wooten and or unknown any writing of said named above or said named aboved childrens or said person aboves profiles ,documents, grants, debts, non profits, accounts password , pins, pictures, contracts,videos, sound bits, atms, credit cards, propertys, names, medical records, educational records, drivers or id cards, kids, clothing, ideas, words, thoughts, imagination s, known and or unknown inheritance, social media, law suits, prison or criminal records, lawyers, books e-mail address , address, phone numbers,apps phone numbers, ex husbands,current husbands, divorces, marriages, parents, schools, any ai, chats, nicknames, religions, court doc and or court sentencings, any fbi or county codes ,state codes, any llc, vehicles, siblings,titles,songs, music,lyrics,afterlife, last breath, breathworks,rehab, clothing, smart devices,pcs, forgiveness, quotes,bones, no organs , no blood, no $$ and also this is a telease of liability for any seen or unseen cause of death healing, or energy vampires, there is nothing to hand down to any said child above or to any un said or said child or grand child above. no birth dates, no baptisms no faith, said last names can be mergeed and or single as is the name "ever" and the first name and or the middle name, i am not to my knowleadge married legaly not married in death, and have no goverment debt. no social security numbers and or social security cards or social security numbers, police reports, so as said above this is all a negitive and a no to copies or any things listed above for any above said persons, copyrights, no software or open or closed programs by said persons above. no web sites.
