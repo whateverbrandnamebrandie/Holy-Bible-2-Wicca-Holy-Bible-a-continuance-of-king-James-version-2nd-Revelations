@@ -1,3 +1,18 @@
+Copyright (1972-2026) YEAR COPYRIGHT HOLDER legal name brandie raquel wooten. present and or future and or past,
+
+"ever" brandie raquel tibbitts and or freitas and or jackson and or wooten and or unknown any writing of said named above or said named aboved childrens or said person aboves profiles ,documents, grants, debts, non profits, accounts password , pins, pictures, contracts,videos, sound bits, atms, credit cards, propertys, names, medical records, educational records, drivers or id cards, kids, clothing, ideas, words, thoughts, imagination s, known and or unknown inheritance, social media, law suits, prison or criminal records, lawyers, books e-mail address , address, phone numbers,apps phone numbers, ex husbands,current husbands, divorces, marriages, parents, schools, any ai, chats, nicknames, religions, court doc and or court sentencings, any fbi or county codes ,state codes, any llc, vehicles, siblings,titles,songs, music,lyrics,afterlife, last breath, breathworks,rehab, clothing, smart devices,pcs, forgiveness, quotes,bones, no organs , no blood, no $$ and also this is a telease of liability for any seen or unseen cause of death healing, or energy vampires, there is nothing to hand down to any said child above or to any un said or said child or grand child above. no birth dates, no baptisms no faith, said last names can be mergeed and or single as is the name "ever" and the first name and or the middle name, i am not to my knowleadge married legaly not married in death, and have no goverment debt. no social security numbers and or social security cards or social security numbers, police reports, so as said above this is all a negitive and a no to copies or any things listed above for any above said persons, copyrights, no software or open or closed programs by said persons above. no web sites.
+
+no promises , no broken promises or unfinished games or debts. all mentioned on theses and all listed or unlisted forseen or unforseen, no projected dreams , thoughts, body , mind, self, pychi or souls subject to the following conditions written on this and said mentioned iteams here and listed here or verbalbal , this document overrides all other legal or legal noterized documents to date.
+
+The above copyright notice and this permission notice shall be included in all said mit license and www.freewill.com on line not edited,
+
+copies or substantial portions of the Software and listed above and on freewill.com and listed above. and the coditions above apply here and misspelling is unseen and will not alter the outcome of this document or any other writen , typed, or cc, documents.amy school slyibiss and or ideas for doc on storage on cloud, or in apps.
+
+THE SOFTWARE and listed above and on freewill.comIS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, or no contracts, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.and the iteams listed above or any freewill.com documents. or Read-me-
+
+to whom it may concern sincerly brandie raquel Tibbitts d.o.b 09/14/1972
+
+
 
 Holy Bible 2: Wicca Holy Bible - Integrated Learning & Narrative Platform
 Index Page (index.html)
